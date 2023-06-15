@@ -1,0 +1,167 @@
+.Q4:hover{
+    opacity: 0.8;
+}
+
+.Q4:active{
+    opacity:0.4;
+}
+
+
+
+.j1{
+   
+    color:grey;
+    line-height: 10px;
+    width: auto; 
+    margin-right: 60px;
+}
+
+.j2{
+    
+    color:grey;
+    line-height: 10px;
+    width: auto;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.j3{
+
+    
+    color:grey;
+    line-height: 10px;
+    width: auto;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+
+.Q3{
+     color:grey;
+    line-height: 10px;
+    width: auto;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+    .Q1{
+     font-family: 'Montserrat', sans-serif;
+     font-weight:lighter;
+     margin-right: 120px;
+     letter-spacing:4px;
+     color: grey;
+     cursor: pointer;
+    
+    }
+
+    .Q2a{
+    font-family: 'Fraunces', serif;  
+    font-size: 30px;
+    margin-right:120px;
+    line-height: 1rem;
+    cursor: pointer;
+    }
+
+
+    .Q2b{
+    font-family: 'Fraunces', serif;  
+    font-size: 30px;
+    margin-right:70px;
+line-height: 1rem;
+cursor: pointer;
+
+    }
+
+
+
+    .Q2c{
+        font-family: 'Fraunces', serif;  
+    font-size: 30px;
+    margin-right:120px;
+    line-height: 1rem;
+    cursor: pointer;
+    }
+
+
+
+.life{
+    
+    float:left;
+    
+}
+
+.mama{
+width: 600px; 
+height: 450px;
+text-align: center;
+margin-left: 350px;
+margin-top: 90px;
+border-radius: 20px;
+}
+
+.kofi{
+width: 300px;
+height: 450px;
+float: right;
+background-color: white;
+cursor: pointer;
+
+}
+ 
+.img1{
+width: 300px;
+
+}
+
+.Q6{
+    background-color: #fff0f6;
+    cursor: pointer;
+}
+
+.Q4{
+background-color: green;
+width: 250px;
+height: 45px;
+border-radius: 7px;
+border-style: none;
+cursor: pointer;
+color: white;
+margin-left: 8px;
+margin-top: 10px;
+}
+.jay2{
+    color:grey;
+    margin-right: auto;
+    font-size: small;
+    word-spacing: 0px;
+    letter-spacing: normal;
+    
+
+    
+}
+
+.jay{
+   font-family: 'Fraunces', serif; 
+   color: green ;
+   font-size: 30px;
+   margin-right:auto;
+   margin-top: 20px;
+   margin-left: 20px;
+   cursor: pointer;
+   text-decoration: none;
+   line-height: 3rem;
+   word-spacing: 0px;
+   
+   
+}
+
+
+
+.end{
+    word-spacing: 3px;
+    margin-right :90px;
+}
+
+
+
+
